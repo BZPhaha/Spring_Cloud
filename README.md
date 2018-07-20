@@ -1,2 +1,2 @@
 # Spring_Cloud
-学习spirng-cloud基础
+study spirng-cloud base
